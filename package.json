@@ -1,0 +1,19 @@
+{
+  "name": "burger-logger",
+  "version": "1.0.0",
+  "description": "Restaurant App",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexBertuzzi/Burger-Logger.git"
+  },
+  "author": "Alex Bertuzzi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexBertuzzi/Burger-Logger/issues"
+  },
+  "homepage": "https://github.com/AlexBertuzzi/Burger-Logger#readme"
+}
