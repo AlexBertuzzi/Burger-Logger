@@ -1,0 +1,23 @@
+body {
+    align-content: center;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+li {
+    padding: 5px;
+    margin: 5px;
+    background: #e29c40;
+}
+  
+.label {
+    font-weight: bold;
+}
+  
+.create-form {
+    padding: 10px;
+    margin: 10px;
+}
+  
+.form-group {
+    margin-bottom: 10px;
+}
