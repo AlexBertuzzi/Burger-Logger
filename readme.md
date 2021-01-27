@@ -20,7 +20,7 @@
   Example code was provided by UTSA Coding Bootcamp, coding was done by Alex Bertuzzi.
 
   ## Installation
-  Instructions: Clone repository form git hub. Initialize the mysql database is mysql workbench. Open the integrated terminal, run npm install mysql, express, and express-handlebars.
+  Instructions: Clone repository from git hub. Initialize the mysql database is mysql workbench. Open the integrated terminal, run npm install mysql, express, and express-handlebars.
 
   ## Usage
   Instructions : Follow link to live url and use the form, check boxes, and buttons provided to manipulate the database.
