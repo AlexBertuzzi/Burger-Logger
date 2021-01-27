@@ -1,7 +1,7 @@
 {
-  "name": "burger-logger",
+  "name": "mysql-seqelize-heroku",
   "version": "1.0.0",
-  "description": "Restaurant App",
+  "description": "",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/AlexBertuzzi/Burger-Logger#readme",
   "dependencies": {
+    "body-parser":"^1.15.0",
     "express": "^4.17.1",
     "express-handlebars": "^5.2.0",
     "mysql": "^2.18.1"
