@@ -2,11 +2,15 @@ body {
     align-content: center;
     margin-left: 10%;
     margin-right: 10%;
+    background-image: url("../img/burger.png");
+    background-size: 100%;
+    color:cornsilk;
+
 }
 li {
     padding: 5px;
     margin: 5px;
-    background: #e29c40;
+    font-size: large;
 }
   
 .label {
@@ -16,8 +20,10 @@ li {
 .create-form {
     padding: 10px;
     margin: 10px;
+    font-size: large;
 }
   
 .form-group {
     margin-bottom: 10px;
+    font-size: large;
 }
